@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @skuthoor
+- 👋 Hi, I’m Sanjay P
 - 👀 I’m interested in Robotics,AI
 - 🌱 I’m currently learning Btech in Electronics And Communication
 - 💞️ I’m looking to collaborate on ROS,Machine Learning
