@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sanjay P
-- 👀 I’m interested in Robotics,AI,Web app
+- 👀 I’m interested in Robotics,AI,Data Analysis,Web app
 - 🌱 I’m currently learning Btech in Electronics And Communication
 - 💞️ I’m looking to collaborate on ROS,Machine Learning,flask
 - 📫 How to reach me : sanjay109kuthoor@gmail.com
